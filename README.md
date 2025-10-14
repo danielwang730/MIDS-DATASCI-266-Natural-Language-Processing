@@ -1,2 +1,2 @@
 # MIDS-DATASCI-266-Natural-Language-Processing
-Project and Assignments from Berkeley MIDS DATASCI 266 Natural Language Processing with Deep Learning Course
+[Project](https://github.com/danielwang730/MIDS-DATASCI-266-Natural-Language-Processing/tree/main/MIDS%20266%20Final%20Project%20Predicting%20Post-Earnings%20Announcement%20Drift%20Using%20NLP) and [Assignments](https://github.com/danielwang730/MIDS-DATASCI-266-Natural-Language-Processing/tree/main/MIDS%20266%20Assignments) from Berkeley MIDS DATASCI 266 Natural Language Processing with Deep Learning Course
