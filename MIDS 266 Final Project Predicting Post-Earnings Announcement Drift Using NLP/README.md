@@ -45,4 +45,4 @@ This repo contains the code, data, and modeling notebooks for a project investig
 
 ---
 
-For details on methodology, findings, and discussion, please refer to the accompanying report.
+For details on methodology, findings, and discussion, please refer to the accompanying [report](https://github.com/danielwang730/MIDS-DATASCI-266-Natural-Language-Processing/blob/main/MIDS%20266%20Final%20Project%20Predicting%20Post-Earnings%20Announcement%20Drift%20Using%20NLP/MIDS%20DATASCI%20266%20Final%20Project%20Report%20-%20Daniel%20Wang.pdf).
